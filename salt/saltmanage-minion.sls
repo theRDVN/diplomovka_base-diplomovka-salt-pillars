@@ -14,4 +14,3 @@ saltinstall:
       log_file: /var/log/salt/minion
       log_level: warning
       log_datefmt: '%H:%M:%S'
-

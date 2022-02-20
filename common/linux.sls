@@ -12,4 +12,3 @@ linux:
       ---- Diplomovka BASE Environment.                 ----
       ---- This is the salt managed server              ----
       ------------------------------------------------------
-

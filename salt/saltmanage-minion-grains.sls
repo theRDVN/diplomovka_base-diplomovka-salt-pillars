@@ -6,7 +6,9 @@ saltinstall:
 {% if grains['id'] == 'diplomovka-app-01' %}
     server_type: app
     component:
-      - TBA
+      - docker
+      - java
+      - maven
     cluster: diplomovka
     module: diplomovka-334620
     network: default
