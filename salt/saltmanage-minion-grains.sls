@@ -12,5 +12,5 @@ saltinstall:
     cluster: diplomovka
     module: diplomovka-334620
     network: default
-    appuser: rado_pieter
+    appuser: docker
 {% endif %}
